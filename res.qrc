@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>circle.png</file>
+        <file>Genetive.qss</file>
+        <file>test.txt</file>
+        <file>text2.txt</file>
+        <file>test2.txt</file>
+        <file>test3.txt</file>
+        <file>test2.xml</file>
+    </qresource>
+</RCC>
